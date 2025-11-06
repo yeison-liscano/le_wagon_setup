@@ -1,4 +1,6 @@
-# Base Python Project
+# Le wagon setup nix version
+
+Original setup instructions: https://github.com/lewagon/data-setup/blob/master/macOS.md
 
 This project is a base python project environment configuration using Nix.
 
